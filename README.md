@@ -10,7 +10,7 @@ This repository contains **Koala Data Analysis**, an exploratory data analysis (
 
 ## **📌 Features**  
 ✅ Exploratory Data Analysis (EDA) on koala-related datasets  
-✅ Data visualization with **Matplotlib** and **Seaborn**  
+✅ Data visualization with **Matplotlib** and **Seaborn**   
 ✅ Statistical insights into koala populations and environmental impact  
 ✅ Jupyter Notebook (`koala_data_analysis.ipynb`) for step-by-step analysis  
 
